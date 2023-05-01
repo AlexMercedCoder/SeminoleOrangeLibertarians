@@ -1,0 +1,23 @@
+body#body {
+  background-color: rgb(218, 217, 217);
+}
+
+.App {
+  max-width: 1000px;
+  margin: auto;
+  background-color: white;
+}
+
+.amcarousel {
+  max-height: 400px;
+  object-fit: cover;
+}
+
+section {
+  padding: 15px;
+  margin: 10px auto;
+}
+
+.amlist {
+  margin: 10px auto;
+}
